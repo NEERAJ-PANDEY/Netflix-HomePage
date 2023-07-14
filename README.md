@@ -9,7 +9,7 @@ Deployed link:https://neeraj-pandey.github.io/Netflix-HomePage/
 -CSS 
 
 ##Output Screenshot
-![image]([https://github.com/Alok-2002/Netflix_Home_Page_Using_HTML_And_CSS/assets/93814546/4959b8ef-266f-4194-8709-b90223d69b2e](https://github.com/NEERAJ-PANDEY/Netflix-HomePage/blob/27b1a2531118d91d22d5b6c14fc6b082d56a12a3/asset/Screenshot%20(1411).png))
+![image](https://github.com/NEERAJ-PANDEY/Netflix-HomePage/blob/f51ee94c1dc9ae7362b4b32167aa9c97cf53d096/asset/Screenshot%20(1411).png)
 
 ## Features
 
